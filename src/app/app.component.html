@@ -197,7 +197,7 @@
     all: unset;
     border: 1px solid #eee;
     background-color: #eee;
-    width: 220px;
+    width: 74px;
     padding: 5px;
     margin-top: 5px;
     display: block;
@@ -213,6 +213,10 @@
 
   #submitButton {
     font-size: 14pt
+  }
+
+  .passwordCheck {
+    display: inline-flex;
   }
 
 </style>
@@ -236,13 +240,9 @@
     <p id="text"></p>
   </div>
 
-  <div>
+  <div class="passwordCheck">
     <div class="check" id="easy"></div>
-  </div>
-  <div>
     <div class="check" id="medium"></div>
-  </div>
-  <div>
     <div class="check" id="strong"></div>
   </div>
 
