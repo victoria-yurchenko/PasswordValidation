@@ -28,13 +28,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Results
 
-![1](https://user-images.githubusercontent.com/95779373/218826017-624a2eea-5b85-4d4c-a689-1f560e8c7ffe.png)
+![image](https://user-images.githubusercontent.com/95779373/218870069-0ecc8cf1-f774-42ca-b48e-c6240fe0585d.png)
 
-![image](https://user-images.githubusercontent.com/95779373/218826229-2bbfd758-0aae-4ac4-b8dc-8689208206de.png)
+![image](https://user-images.githubusercontent.com/95779373/218870125-e3bea728-8764-4619-80e8-f516f2e12507.png)
 
-![image](https://user-images.githubusercontent.com/95779373/218826310-5f248362-9fb4-41fc-b7b3-373e621ebfa9.png)
+![image](https://user-images.githubusercontent.com/95779373/218870177-9fb9128b-2059-4534-a98e-c39bdf3dd3e4.png)
 
-![image](https://user-images.githubusercontent.com/95779373/218826351-16c718bf-e00b-4938-90ad-f550533e9a9f.png)
+![image](https://user-images.githubusercontent.com/95779373/218870234-f5344be5-41ed-4f12-9caf-79ea0fdca8a7.png)
 
-![image](https://user-images.githubusercontent.com/95779373/218826403-6e5af01d-ac70-4fa8-944e-4eec3a4a206c.png)
+![image](https://user-images.githubusercontent.com/95779373/218870275-4a256586-1473-44e8-9a87-640893df8ea0.png)
 
